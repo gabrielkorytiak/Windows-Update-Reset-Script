@@ -9,4 +9,4 @@ This script is tested on Windows 10 and Windows 11
 
 To work properly it must be run as administrator
 
-It may be nececary to run it multiple times in order to properly reset Windows Update
+It may be nececary to run this script multiple times in order to fully reset Windows Update
