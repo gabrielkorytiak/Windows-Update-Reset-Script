@@ -1,4 +1,4 @@
-# WindowsUpdateResetScript
+# Windows Update Reset Script
 This is a siple bat file that will reset Windows Update in case of getting it stuck or refuse to install properly system updates. 
 
 This will firstly stop Windows Update and services required by Windows Update. Then it will disable services and remove all files from c:\Windows\SoftwareDistribuition folder. After that it will re-enable Windows Update and services required by Windows Update and quits.
